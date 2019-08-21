@@ -1,3 +1,4 @@
 feature1
 more work on feature1
 bug fixes - v0.1.0
+severe bug hotfix - v0.1.1
